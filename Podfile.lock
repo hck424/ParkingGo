@@ -1,0 +1,16 @@
+PODS:
+  - WKCookieWebView (2.0.1)
+
+DEPENDENCIES:
+  - WKCookieWebView (~> 2.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - WKCookieWebView
+
+SPEC CHECKSUMS:
+  WKCookieWebView: 217e362a6633b5fcf6f8f76c89c169b7ba2853ec
+
+PODFILE CHECKSUM: b9c60e6ece6326617f42514eec1e3cadbf60f22f
+
+COCOAPODS: 1.8.4
